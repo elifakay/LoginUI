@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginUI 2</string>
+    <string name="android_ui">Android UI</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="todo">TODO</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="login">LOGIN</string>
+</resources>
